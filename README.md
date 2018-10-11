@@ -1,2 +1,3 @@
 # BD2TP1
-The bane of my existance
+Trabalho Prático 1 -> Base de Dados
+8 de Novembro data limite
